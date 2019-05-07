@@ -1,0 +1,128 @@
+h1{
+	font-family: Impact; 
+	color: #ff0000;}
+p{
+	font-size: 24;
+}
+html{
+	text-align: center;
+	font-weight: bold;
+	background-color: #b2b2b2;}
+h4{
+	font-weight: bold;
+	text-align: center;
+	position:relative;
+	bottom: -850px;
+}
+#arrowleft{
+	position: absolute;
+	left: 300px;
+	bottom: 150px;
+	width:175px;
+	length:175px;
+}
+#splitpath{
+	position: relative;
+	left: -70px;
+	bottom: -450px;
+	border-radius: 5px;
+}
+#arrowright{
+	position: absolute;
+	right: 265px;
+	bottom: 150px;
+	width:175px;
+	length:175px;
+}
+#arrowright2{
+	position:absolute;
+	top:400px;
+	width:125px;
+	length:125px;
+}
+#pathp{
+	text-align: center;
+	position:relative;
+	bottom: -500px;
+	font-size:20px;
+}
+#beach{
+	position: relative;
+	bottom: -70px;
+	right: -20px;
+	border-radius: 10px;
+}
+#end1{
+	position: relative;
+	bottom: -70px;
+}
+#tip2{
+	position: relative;
+	bottom: -80px;
+}
+#end1p{
+	font-size:50px;
+	position: relative;
+	bottom: -250px;
+}
+#yesorno{
+	font-size:50px;
+	position:relative;
+	bottom:-250px;
+}
+#knightp{
+	font-size:23px;
+	position:relative;
+	bottom:-250px;
+}
+#knight{
+	position:relative;
+	left:1px;
+	bottom:-150px;
+}
+#imprisonmentp{
+	text-align: center;
+	position: relative;
+	bottom: -100px;
+	font-size: 20px;
+}
+#jail{
+	position:relative;
+	bottom:-100px;
+	right:-70px
+}
+#forward2{
+	position:relative;
+	bottom:-100px;
+	width:125px;
+	length:125px;
+	right: -55px;
+}
+#guillotine{
+	position:relative;
+	width:300px;
+	overflow: hidden;
+	margin: 0;
+	bottom: -150px;
+}
+#executionp{
+	font-size:26px;
+	font-weight:bold;
+	position:relative;
+	bottom: -150px;
+	
+}
+#endgame{
+	font-size:26px;
+	font-weight:bold;
+	position:relative;
+	bottom: -150px;
+	
+}
+/*All images cited below.
+/*"The Gibbet" by Neil T is licensed under CC BY-SA 2.0
+/*"The gate to Sudely Castle" by aosher is licensed under CC BY-NC-SA 2.0
+/*"High road, low road" by mag3737 is licensed under CC BY-NC-SA 2.0
+/*"SM46 - Lobster boat" by ianturton is licensed under CC BY-NC-SA 2.0
+/*"IMG_0166" by Barry Adams is licensed under CC BY-NC-SA 2.0 
+/*"Knight in Leavenworth" by The Cephalopod Arm Wrestling Club is licensed under CC BY-NC-ND 2.0
